@@ -1,8 +1,9 @@
 name: Pano3D
 channels:
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+    # - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
+    # - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+    # - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+  - main
   - pytorch
   - conda-forge
   - defaults
